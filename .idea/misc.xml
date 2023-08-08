@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="pathToExecutable" value="C:\Users\Cartoon\anaconda3\envs\socv\Scripts\black.exe" />
+    <option name="sdkUUID" value="ee3a5834-cfc9-45cd-bc42-fa4692d123c2" />
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="socv" project-jdk-type="Python SDK" />
 </project>

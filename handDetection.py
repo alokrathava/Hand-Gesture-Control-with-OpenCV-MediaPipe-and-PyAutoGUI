@@ -14,7 +14,7 @@ with hands_module.Hands(min_detection_confidence=0.8, min_tracking_confidence=0.
     while capture.isOpened():
         read_success, frame = capture.read()
 
-        # Image was converted from BGR to RGB.
+        # Image was converted from BGR to RGB.A
         image = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
 
         image.flags.writeable = False
